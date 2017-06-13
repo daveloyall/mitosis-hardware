@@ -13,7 +13,7 @@ Line | in Lars' kit | Cost | Description | Quantity | Links
 6 | N | ? $5 local | CR2032 Battery | 2 | 
 7 | N | found item | 3mm adhesive neoprene base | 1 left + 1 right | [files](https://github.com/reversebias/mitosis-hardware/tree/master/cnc)
 8 | N | $38 (extra parts) | Cherry MX or compatible switches | 46 |
-9 | N | ? $0-$50 | Keycaps | 46x 1U | 
+9 | N | ? $0-$50 (extra parts) | Keycaps | 46x 1U | 
 
 
 ## Receiver
