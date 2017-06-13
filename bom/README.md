@@ -10,10 +10,10 @@ Line | in Lars' kit | Cost | Description | Quantity | Links
 3 | Y | $0.45 | Si2302 (or any other pin-compatible low voltage nFET) | 2 | [ebay](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.Xsi2302.TRS0&_nkw=si2302&_sacat=0), [digikey](https://www.digikey.com/product-detail/en/vishay-siliconix/SI2302CDS-T1-E3/SI2302CDS-T1-E3CT-ND/3305362)
 4 | Y | $0.08 | Right angle 0.1" header (for optional programming header) | 2x 4pin | 
 5 | Y | $0.04 | Straight 0.1" header (for battery stabilisers) | 4x 1pin | 
-6 | N |  | CR2032 Battery | 2 | 
-7 | N |  | 3mm adhesive neoprene base | 1 left + 1 right | [files](https://github.com/reversebias/mitosis-hardware/tree/master/cnc)
-8 | N |  | Cherry MX or compatible switches | 46 |
-9 | N |  | Keycaps | 46x 1U | 
+6 | N | ? $5 local | CR2032 Battery | 2 | 
+7 | N | found item | 3mm adhesive neoprene base | 1 left + 1 right | [files](https://github.com/reversebias/mitosis-hardware/tree/master/cnc)
+8 | N | $38 (extra parts) | Cherry MX or compatible switches | 46 |
+9 | N | ? $0-$50 | Keycaps | 46x 1U | 
 
 
 ## Receiver
