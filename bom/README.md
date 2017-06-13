@@ -4,7 +4,7 @@ Parts required for DAVE's Mitosis Keyboard
 ## Keyboard
 
 Line | in Lars' kit | Cost | Description | Quantity | Links
---- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | ---
 1 | Y | $25 (extra parts) | Mitosis Keyboard PCB | 4 | [files](https://github.com/reversebias/mitosis-hardware/tree/master/gerbers), [ordering](http://dirtypcbs.com)
 2 | Y | $14 | Core51822 (B) Module | 2 | [direct](http://www.waveshare.com/core51822-b.htm), [aliexpress](https://www.aliexpress.com/w/wholesale-core51822-b.html?initiative_id=SB_20170426175446&site=glo&groupsort=1&SortType=price_asc&g=y&SearchText=core51822+b)
 3 | Y | $0.45 | Si2302 (or any other pin-compatible low voltage nFET) | 2 | [ebay](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.Xsi2302.TRS0&_nkw=si2302&_sacat=0), [digikey](https://www.digikey.com/product-detail/en/vishay-siliconix/SI2302CDS-T1-E3/SI2302CDS-T1-E3CT-ND/3305362)
